@@ -1,0 +1,21 @@
+/** @format */
+
+body {
+	/*	border: 10px solid black;*/
+	/*	width: fit-content;*/
+	display: flex;
+	/*	padding: 10rem 10rem 10rem 10rem;*/
+	flex-direction: column;
+	background: black;
+	align-items: center;
+	justify-items: center;
+}
+
+h1 {
+	color: white;
+}
+
+canvas {
+	/* width: 100%; */
+	background: green;
+}
